@@ -6,7 +6,7 @@ Puoi usarla per eseguire operazioni matematiche di base in un'interfaccia intuit
 ## 📦 Download
 
 Puoi scaricare il progetto direttamente dalla mia repository GitHub:  
-👉 [https://github.com/tuo-username/nome-repository](https://github.com/tuo-username/nome-repository)
+👉 
 
 ## 🚀 Come eseguirla
 
