@@ -19,7 +19,7 @@ Puoi scaricare il progetto direttamente dalla mia repository GitHub:
 
 2. Clona o scarica la repository:
    ```bash
-   git clone https://github.com/tuo-username/nome-repository.git
+   https://github.com/Zioway/Learning_exercise.git
 
 3. oppure scarica il file ZIP e estrailo
    - cd percorso\della\cartella
