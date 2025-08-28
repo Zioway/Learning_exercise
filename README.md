@@ -34,7 +34,7 @@ Puoi scaricare il progetto direttamente dalla mia repository GitHub:
 2. Se non lo è, puoi installarlo tramite Homebrew:
    - brew install python
 3. Clona la repository:
-   - git clone https://github.com/tuo-username/nome-repository.git
+   - https://github.com/Zioway/Learning_exercise.git
 4. Vai nella cartella del progetto:
    - cd nome-repository
 5. Esegui la calcolatrice:
